@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gabarito', cursive;
+}
+a{
+    text-decoration: none;
+    color: #59483e;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: auto; 
+    height: auto;
+    background-image: url(../image/fondo.png);
+    background-attachment: fixed;
+    background-size: 100% 110%;
+    margin-top: 100px;
+}
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #fff7e5;
+    display: inline-block;
+}
+#logo{
+    float: left;
+    margin-left: 10px;
+    height: 80px;
+}    
+h1{
+    float: left;
+    height: 80px;
+    width: 75%;
+    margin-left: 10px;
+    font-size: 2.5rem;
+    color: #59483e;
+    padding-top: 15px;
+}
+.lista{
+    width: 75%;
+    height: 75%;
+    margin: auto;
+    list-style:none;
+}
+.lista li{
+    background-color: #fff7e5;
+    border-radius: 10px;
+    font-size: 1rem;
+    padding: 20px;
+    margin: 30px 0; /*no se que pasa*/
+    box-shadow: 10px 10px 5px #8b796f;
+    transition: all 0.25s ease;
+}
+.lista li a{
+    width: 100%;
+    height: 100%;
+}
+.lista li:hover{
+    background-color: #f8afb8;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #f5a3af;
+}
+footer #derechos{
+    width: 75%;
+    height: 50px;
+    padding: 17px 20px;
+    font-size: 1rem;
+    color: #59483e;
+}
+#derechos a{
+    text-decoration: underline;
+}
+footer #fotos{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+footer * img{
+    width: 40px;
+}
+#sauces{
+    background-color: white;
+    border-radius: 50%;
+}
+#home{
+    width: 35px;
+}

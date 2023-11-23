@@ -64,6 +64,9 @@ h1{
 .lista li:hover{
     background-color: #f8afb8;
 }
+.error{
+    color: red;
+}
 footer{
     position: fixed;
     bottom: 0;

@@ -1,5 +1,5 @@
-DirectoryIndex index.php index.html
-ErrorDocument 404 "Lo siento, ese directorio no existe"
+DirectoryIndex index.php
+ErrorDocument 404 /error/404.html
 Redirect 301 /educa https://www.educa.jcyl.es/es 
 # RewriteEngine on
 # RewriteRule ^/DAW/ 204DAWProyectoDAW/indexProyectoDAW.php [R=301]

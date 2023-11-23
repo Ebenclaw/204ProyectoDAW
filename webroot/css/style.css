@@ -67,6 +67,19 @@ h1{
 .error{
     color: red;
 }
+.imgError{
+    display: block;
+    width: 600px;
+    margin: auto;
+    margin-top: 200px;
+}
+.divError{
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #F73C90;
+    text-align: center;
+}
 footer{
     position: fixed;
     bottom: 0;

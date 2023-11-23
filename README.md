@@ -10,6 +10,6 @@ Rebeca Sánchez Pérez
 Documentacion del indice DAW
 ## Funcionalidades
 ## Entorno de desarrollo
-[https://http://daw204.isauces.local/](https://http://daw204.isauces.local/)
+[http://daw204.isauces.local/index.html](http://daw204.isauces.local/index.html)
 ## Entorno de explotacion
 [https://daw204.ieslossauces.es/](https://daw204.ieslossauces.es/)

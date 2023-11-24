@@ -1,4 +1,4 @@
-DirectoryIndex index.php
+DirectoryIndex index.html index.php
 ErrorDocument 404 /error/404.html
 Redirect 301 /educa https://www.educa.jcyl.es/es 
 # RewriteEngine on
